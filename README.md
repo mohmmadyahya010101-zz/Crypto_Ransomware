@@ -7,3 +7,10 @@ Watch tutorial Here : https://www.youtube.com/playlist?list=PLLxZg1KWLYBUHdJ-s_G
 
 
 Subscribe : https://www.youtube.com/mohmmadyahya
+
+# Function
+1.) Encrypt your data
+2.) Show fake windows update screen during enrypting your data
+3.) Kill TaskMnager and Explorer.exe
+4.) Lock Your Computer
+5.) Delete it self after complete all task
